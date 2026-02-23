@@ -15,7 +15,10 @@ class Artist  {
 }
 
 let Arianna = new Artist()
-console.log(Arianna.name)
+let Mari = new Artist()
+
+
+
     
 
 
